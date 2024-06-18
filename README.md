@@ -1,1 +1,1 @@
-Its a Very Basic game where you have to guess the three digit number. If the number is in the correct possition then it is a Cow and if the number is not in the correct possition then it is a Bull. With this Clues you can guess your number.
+Its a Very Basic game where you have to guess the three digit number. If the number is in the correct possition then it is a Cow and if the number is not in the correct possition then it is a Bull. With these clues you can guess your number.
